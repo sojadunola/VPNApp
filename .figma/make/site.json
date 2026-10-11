@@ -1,0 +1,10 @@
+{
+  "description": "Securely browse the internet with this VPN app, protecting your privacy and data while accessing content from anywhere in the world.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
